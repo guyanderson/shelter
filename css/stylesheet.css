@@ -19,3 +19,7 @@ body p{
 .italic{
   font-style: italic;
 }
+.column{
+  width: 600px;
+  float: left;
+}
